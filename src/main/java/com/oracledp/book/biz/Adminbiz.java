@@ -4,7 +4,7 @@ import com.oracledp.book.model.Admin;
 
 public interface Adminbiz {
     /**
-     * xiugaidfd
+     * 一
      * @param admin
      * @return
      */
